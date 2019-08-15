@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorSecondaryLight">#B39DDB</color>
+
+    <color name="statusBarColor">#FFFFFFFF</color>
+    <!--<color name="cardBackgroundColor">#ECEFF1</color>-->
+    <color name="cardBackgroundColor">#80e8f3fc</color>
+    <color name="textColorPrimary">#1E88E5</color>
+    <color name="textColorHighlight">#D50000</color>
+    <color name="textColorMainLight">#b2b2b2</color>
+    <color name="textColorMain">#333333</color>
+    <color name="textColorSecondaryLight">#9575CD</color>
+</resources>

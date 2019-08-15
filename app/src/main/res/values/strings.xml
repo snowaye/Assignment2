@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="label_title_dubai">Dubai</string>
+    <string name="label_time_from_to">Apr 3, 12 pm  -  Apr 6, 12 pm</string>
+    <string name="label_tab_lowest_price">Lowest Price</string>
+    <string name="label_tab_distance">Distance</string>
+    <string name="label_tab_recommended">Recommended</string>
+    <string name="label_card_ceil_price">C$36</string>
+    <string name="label_trademark">Avis</string>
+    <string name="label_class">Economy</string>
+    <string name="label_viewer">4</string>
+    <string name="label_suitcase">1</string>
+    <string name="label_seat">4</string>
+    <string name="label_time_from">Apr 3, 12 pm</string>
+    <string name="label_time_to">Apr 6, 12 pm</string>
+    <string name="label_pick_up">Pick Up</string>
+    <string name="label_drop_off">Drop Off</string>
+    <string name="labe_transit">Non Airport</string>
+    <string name="label_main_footer_text">C$31 - C$1,417 per day including taxs and fees</string>
+    <string name="label_footer_select_filter">Select Filters</string>
+    <string name="label_audi_a5">Audi A5</string>
+    <string name="label_luxury_car">Luxury Car</string>
+    <string name="label_description">Audi A5 Sportback or similar</string>
+    <string name="label_dollar_price">$1,417</string>
+    <string name="labe_cad_per_day">CAD per day,</string>
+    <string name="label_included">including taxs &amp; fees</string>
+    <string name="label_offer_details">Offer Details</string>
+    <string name="label_car_feature">Automatic \\nAir Conditioning\\nConvertable</string>
+    <string name="label_chevrolet_spark">Chevrolet Spark</string>
+    <string name="label_btn_book">Book</string>
+</resources>

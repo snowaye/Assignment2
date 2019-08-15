@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tv_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Chevrolet Spark"
+        android:textSize="@dimen/text_size_card_body"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/inner_card_margin_small"
+        android:textColor="@color/textColorMain"/>
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imgv_tab"
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:layout_gravity="center"
+        android:visibility="invisible"
+        android:layout_marginEnd="@dimen/inner_card_margin_small"
+        app:srcCompat="@drawable/ic_tab"/>
+</LinearLayout>
